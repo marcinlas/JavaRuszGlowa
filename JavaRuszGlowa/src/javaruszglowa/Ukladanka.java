@@ -1,0 +1,14 @@
+
+package javaruszglowa;
+
+public class Ukladanka {
+
+    public static void main(String[] args) {
+        int x = 3;
+        
+        if (x == 1) {
+            System.out.println("d");
+        }
+    }
+    
+}
