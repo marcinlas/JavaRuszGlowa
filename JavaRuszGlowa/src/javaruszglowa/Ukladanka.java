@@ -22,13 +22,7 @@ public class Ukladanka {
         
         if (x == 1) {
             System.out.print("d");
-            
-            
-          
+     
         }
-    }   
-        
-}
-        
-    
+    }        
 }
